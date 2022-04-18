@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
-
+/models/
+/model/
+*.h5
+*.tflite
 .DS_STORE
